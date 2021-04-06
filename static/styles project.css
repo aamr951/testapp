@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color: #009999;
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
+
+h2 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ffffff;
+  margin-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+
+
+div {
+  display: block;
+}
+
+div {
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
